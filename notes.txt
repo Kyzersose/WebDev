@@ -1,0 +1,8 @@
+VS Code cmd pallette:
+    ctrl + shfit + p
+
+Setup the structure:
+    type ! in VS Code
+
+Automatically format html doc:
+    shift + alt + f
