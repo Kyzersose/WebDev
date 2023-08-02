@@ -6,3 +6,5 @@ Setup the structure:
 
 Automatically format html doc:
     shift + alt + f
+
+<div> is used to group content
