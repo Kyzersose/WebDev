@@ -9,3 +9,4 @@ Automatically format html doc:
 
 Comment a line:
     ctrl + /
+<div> is used to group content
