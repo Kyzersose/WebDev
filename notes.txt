@@ -6,3 +6,6 @@ Setup the structure:
 
 Automatically format html doc:
     shift + alt + f
+
+Comment a line:
+    ctrl + /
