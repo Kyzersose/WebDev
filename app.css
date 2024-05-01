@@ -1,0 +1,7 @@
+button:hover {
+    background-color: red;
+}
+
+a[href]:hover{
+    color: aqua;
+}
